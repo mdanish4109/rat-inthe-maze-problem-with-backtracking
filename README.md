@@ -1,4 +1,4 @@
-# rat-inthe-maze-problem-with-backtracking
+# rat-inthe-maze-problem-with-backtracking project of DSA by M Danish and M Sultan
 #include <iostream>
 using namespace std;
 
